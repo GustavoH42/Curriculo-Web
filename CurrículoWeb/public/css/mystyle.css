@@ -1,0 +1,11 @@
+.icon_fab{
+    font-size: 350%;
+}
+
+.icon_whatsapp{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+}
